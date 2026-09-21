@@ -15,7 +15,7 @@ I translate complex business processes, enterprise data, and functional requirem
 
 ---
 
-### 🛠️ Technical & Analytical Toolkit
+### Technical & Analytical Toolkit
 
 * **Business Analysis & Agile:** BRD/PRD Documentation, User Story Mapping, Process Mapping (Lucidchart, Visio), Backlog Management (Jira)
 * **Data Analytics & SQL:** Relational Joins, Window Functions, Query Optimization, Python Data Wrangling (Pandas), Advanced Excel
@@ -23,7 +23,7 @@ I translate complex business processes, enterprise data, and functional requirem
 
 ---
 
-### 📁 Featured Repositories & Portfolio Roadmap
+### Featured Repositories & Portfolio Roadmap
 
 | Repository | Focus Area | Status | Highlights & Tools |
 | :--- | :--- | :--- | :--- |
@@ -36,4 +36,4 @@ I translate complex business processes, enterprise data, and functional requirem
 
 ---
 
-📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/shivani-pareta/)
+**Connect with Me:** [LinkedIn](https://www.linkedin.com/in/shivani-pareta/)
