@@ -28,7 +28,7 @@ I translate complex business processes, enterprise data, and functional requirem
 | Repository | Focus Area | Status | Highlights & Tools |
 | :--- | :--- | :--- | :--- |
 | **[SQL-LEET](https://github.com/ShivaniPareta-BA/SQL-LEET)** | Data Manipulation | Live | Daily query optimization, complex joins, and window functions |
-| **BA-Frameworks-In-Action** | Business Analysis | Building | Root Cause (5 Whys/Fishbone), MoSCoW, RACI, and Gap Analysis |
+| **[BA-Frameworks](https://github.com/Shivani-Pareta/BA-Frameworks)** | Business Analysis | Building | Root Cause (5 Whys/Fishbone), MoSCoW, RACI, and Gap Analysis |
 | **BA-Agile-Requirements-Framework** | Agile Requirements | Planned | PRDs, user story backlogs, and structured Jira workflows |
 | **Process-Flow-Diagrams** | Process Mapping | Planned | As-Is vs. To-Be process flows & BPMN models using Lucidchart |
 | **PowerBI-Sales-Analytics** | BI & Dashboarding | Planned | Executive performance dashboards and custom DAX metrics |
