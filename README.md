@@ -6,7 +6,7 @@
 
 ---
 
-### About Me & Background
+### About Me 
 I translate complex business processes, enterprise data, and functional requirements into structured product specifications and actionable analytics.
 
 **2.5 Years Enterprise Experience:** Former Analyst at Deloitte and Concentrix, collaborating with cross-functional stakeholders, validating system logic, and conducting end-to-end process reviews.
