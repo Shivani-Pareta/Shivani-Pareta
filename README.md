@@ -29,10 +29,7 @@ I translate complex business processes, enterprise data, and functional requirem
 | :--- | :--- | :--- | :--- |
 | **[SQL-LEET](https://github.com/ShivaniPareta-BA/SQL-LEET)** | Data Manipulation | Live | Daily query optimization, complex joins, and window functions |
 | **[Business-Analyst-Models-Diagrams](https://github.com/Shivani-Pareta/Business-Analyst-Models-Diagrams)** | Business Analysis | Building | BRD/FRD, RTM, BPMN, SWOT, Use case|
-| **BA-Agile-Requirements-Framework** | Agile Requirements | Planned | PRDs, user story backlogs, and structured Jira workflows |
-| **Process-Flow-Diagrams** | Process Mapping | Planned | As-Is vs. To-Be process flows & BPMN models using Lucidchart |
-| **PowerBI-Sales-Analytics** | BI & Dashboarding | Planned | Executive performance dashboards and custom DAX metrics |
-| **Python-Data-Analysis** | Data Wrangling | Planned | Exploratory Data Analysis (EDA) using Pandas and Matplotlib |
+| **[Python-microprojects-to-scraping](https://github.com/Shivani-Pareta/Python-microprojects-to-scraping)** | Data Wrangling | Live | Microprojects on python till web scraping mastery|
 
 ---
 
